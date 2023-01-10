@@ -1,9 +1,11 @@
 # Dashboards_from_karpov_courses
 
-## screenshot of feed_actions dashboard from the karpov.courses
+Дашборды выполнены в Superset
 
-![лента-новостей-2023-01-08](https://user-images.githubusercontent.com/122218714/211209608-cd926256-85cc-4b5a-9f93-f6bbcc21bb9c.jpg)
+## Скриншот дашборда Лента новостей
 
-## screenshot of feed_actions dashboard whith real-time data from the karpov.courses
+![Screenshot_2](https://user-images.githubusercontent.com/122218714/211634283-63e5b822-9e54-41fe-ac57-668b98de46c1.png)
 
-![лента-новостей-оперативные-данные-2023-01-08](https://user-images.githubusercontent.com/122218714/211209896-05e6ad54-2e2f-4160-8fca-1bf70261065e.jpg)
+## Скриншот дашборда Лента новостей - оперативные данные
+
+![Screenshot_1](https://user-images.githubusercontent.com/122218714/211633980-65970a18-1a7c-42f6-aa5b-b1b6fa173af5.png)
